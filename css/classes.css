@@ -129,3 +129,10 @@ display: inline-block;
     line-height: 25px;
   /*  margin-left: 23px;*/
 }
+
+@media only screen and (max-width: 767px) {
+.navbar-default .navbar-collapse, .navbar-default .navbar-form
+  {
+    min-height: 280px;
+  }
+}
