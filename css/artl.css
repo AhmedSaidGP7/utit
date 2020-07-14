@@ -1,0 +1,162 @@
+/* Start Change Background */
+
+.navbar{
+    background: white;
+    border: 1px solid white;
+}
+/* End Change Background */
+
+
+/* Start Move Navbar Brand */
+
+.navbar-brand{
+    position: relative;
+    left: 60px;
+    bottom: 30px;
+    height: 118px;
+}
+
+@media only screen and (max-width: 900px) {
+    
+    
+    .navbar-brand{
+    position: relative;
+    left: -83px;
+    
+}
+}
+
+
+
+/* Start Move Navbar Brand */
+
+
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand{
+  margin-left: 80px;    
+}
+
+/* End Move Navbar Brand */
+
+
+/* Start Move navbar to left */
+.navbar-right{
+    
+    margin-right: 142px;
+}
+/* End Move navbar to left */
+
+
+/* Start Change links hover color */
+.navbar-default .navbar-nav > li > a:hover{
+    
+    color:#ee7c35;
+}
+/* End Change links hover color */
+
+/* Start Change links Background color */
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus{
+    
+    background:white;
+}
+
+/* End Change links Background color */
+
+
+/* Start Change slider button color */
+
+.carousel-indicators .active{
+    
+        width: 12px;
+    height: 12px;
+    margin: 0;
+    background-color: #f57732;
+
+    
+}
+
+/* End Change slider button color */
+
+.carousel-control.right{
+    color:#f57732;
+    right: 0;
+    left: auto;
+     background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .0001) 0%, rgba(96, 69, 69, 0) 100%); 
+background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .0001) 0%, rgba(96, 69, 69, 0) 100%);      background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, .0001)), to(rgba(0, 0, 0, .5))); 
+background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .0001) 0%, rgba(96, 69, 69, 0) 100%);     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
+background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .0001) 0%, rgba(96, 69, 69, 0) 100%); }
+
+
+
+.carousel-control.left{
+    
+    color:#f57732;
+     background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .0001) 0%, rgba(96, 69, 69, 0) 100%); 
+background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .0001) 0%, rgba(96, 69, 69, 0) 100%);      background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, .0001)), to(rgba(0, 0, 0, .5))); 
+background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .0001) 0%, rgba(96, 69, 69, 0) 100%);     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
+background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .0001) 0%, rgba(96, 69, 69, 0) 100%); }
+
+
+
+
+
+
+
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img{
+    
+    
+        line-height: 1;
+    margin: auto;
+}
+
+
+
+.modal-header{
+    
+        padding: 39px;
+    border-bottom: 0px solid #e5e5e5;
+}
+
+.modal-footer{
+    
+      border-top: 0px solid #e5e5e5;
+}
+
+button, input {
+    overflow: visible;
+    color: #f07c28;
+    border: none;
+    font-weight: bold;
+    font-family: 'Palanquin Dark', sans-serif;
+    height: 30px;
+    border-bottom: 1px solid #e2e2e2;}
+
+textarea {
+    overflow: auto;
+    border-color: #e8e8e8;
+}
+
+
+	
+.modal {
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) { 
+  .modal:before {
+    display: inline-block;
+    vertical-align: middle;
+    content: " ";
+    height: 100%;
+  }
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+
+li{
+	z-index: 10;
+}

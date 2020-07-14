@@ -1,0 +1,354 @@
+body, html {
+    height: 100;
+
+    line-height: 1.2;
+
+
+}
+
+p , h1 , h2 , h3 , h4 , h5 , a {
+
+  font-family: 'Didact Gothic', sans-serif;
+        color:#6d6868;
+}
+
+#morelogo{
+
+    height: 57px;
+    position: relative;
+    left: 32px;
+}
+
+.main-slider{
+
+    position: relative;
+    bottom: 75px;
+}
+
+.main-services{
+
+    text-align: center;
+    align-items: center;
+
+}
+
+.main-services .fa{
+
+    color:black;
+    font-size:35px;
+}
+
+.lineup{
+
+   line-height: 2.2cm
+}
+
+.z-indexlogo{
+
+    z-index: 2;
+}
+
+.main-services h4 {
+
+    color:black;
+    font-weight: bold;
+}
+
+.spaceses{
+       height: 1.07px;
+    width: 100px;
+    background: rgba(0, 0, 0, 0.81);
+    position: relative;
+    margin-top: 23px;
+    display: table;
+    margin: auto;
+}
+
+
+.themain-section{
+    margin-top: 90px;
+    min-height: 330px;
+    height:auto;
+    width: 100%;
+    background:#e8e8e8;
+    text-align: left;
+    padding-top: 20px;
+}
+
+.mainimg{
+
+    height:250px;
+    display:table;
+    margin: auto;
+    position:relative;
+    top:30px;
+}
+
+.themain-section h5{
+
+    color: #f47a29;
+
+   margin-top:60px;
+    font-weight: bold;
+}
+
+
+.themain-section p{
+
+    font-family: 'Didact Gothic', sans-serif;
+    color: #656565;
+    line-height: 1.7;
+    font-weight: bold;
+
+}
+
+.themain-section span{
+
+    font-weight:bold;
+    line-height: 2.1;
+}
+
+.footer2{
+
+    width:100%;
+    min-height:400px;
+    background:black;
+    margin-top:30px;
+    border-bottom: #2a2a2a 1px solid;
+}
+
+.footer2 h5{
+
+    color: white;
+    text-align: left;
+    font-weight: bold;
+    padding:36px 0 0 70px;
+
+}
+
+.footer2 p{
+
+    color: #606060;
+    text-align: left;
+    padding:20px 0 0 72px;
+    font-size:10px;
+    font-weight:bold;
+}
+
+
+.footer2 .fa{
+
+    color: white;
+    text-align: left;
+    padding:20px 0 0 10px;
+    font-size:26px;
+
+
+}
+
+.footer2 .socialmargine {
+
+    margin-left:60px;
+}
+
+.footer2 .contactuscontrol{
+
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 65px;
+    margin-top:-9px;
+    color: #ababab;
+}
+
+.footer2 iframe{
+
+    max-width: 90%;
+}
+
+.footer2 a{
+    color:#797676;
+    margin-top: 20px;
+    margin-left: 70px;
+    font-size:12px;
+    font-weight:bold;
+    line-height:30px;
+    text-align: left;
+
+}
+
+#footer{
+
+    width:100%;
+    background:black;
+    min-height:80px;
+    height: auto;
+}
+
+#footer p{
+
+    color:white;
+    padding-top:32px;
+    padding-left: 10px;
+    float: left;
+    text-align: left;
+}
+
+#footer span{
+
+    color: white;
+    float: right;
+    text-align: right;
+    padding-top: 32px;
+    padding-right:16px;
+    font-size: 27px;
+}
+
+.partnerssection{
+
+    margin-top: 55px;
+}
+
+.slider2img{
+
+    display:table;
+    margin: auto;
+    max-width: 80%;
+}
+
+
+.hart{
+
+    font-weight: bold;
+    color: black;
+}
+
+.modal{
+
+    background-image: url('../images/contactbg.jpg');
+    background-repeat: repeat-x;
+    background-position: center;
+     background-attachment: fixed;
+    background-size : cover;
+}
+.modal p{
+    margin-top: 19px;
+    color: #424242;
+    font-family: 'Didact Gothic', sans-serif;
+    font-weight: bold;
+
+}
+
+.modal h1{
+  font-size: 46px;
+  color: #f07c28;
+  font-family: 'Didact Gothic', sans-serif;
+	text-align: center;
+
+}
+
+.Substationsh2{
+
+  font-family: 'Didact Gothic', sans-serif;
+  color:#f47a29;
+  margin-top: 80px;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+#cuscenter{
+
+    padding:auto;
+margin:auto;
+text-align:center;
+}
+
+.h1itserv{
+
+    font-weight: bold;
+color:#f3853b;
+
+}
+
+.themain-section span {
+
+    color: #777969;
+
+
+}
+
+/*.itp {
+
+    margin-top: 70px;
+}*/
+
+#itservicesimages{
+    padding: auto;
+    margin: auto;
+    text-align: center;
+}
+
+a:hover{
+
+	text-decoration: none;
+}
+
+a:focus{
+
+	text-decoration: none;
+}
+a:active{
+
+	text-decoration: none;
+}
+a:visited{
+
+	text-decoration: none;
+}
+
+.itservimg1{
+
+	       max-height: 232px;
+    display: table;
+    margin: 36px auto 0px auto;
+}
+
+
+
+.h1social{
+
+	color: #f59e63;
+    font-weight: bold;
+
+
+}
+
+
+.helloworld{
+
+	color: white;
+	position: absolute;
+	bottom: 220px;
+	font-size: 50px;
+}
+
+.wemake{
+	color: white;
+	position: absolute;
+	bottom: 120px;
+	font-size: 50px;
+
+}
+
+.spancolor{
+
+	color: #c312d1;
+}
+
+.ifyo{
+
+color: white;
+	position: absolute;
+	bottom: 30px;
+	font-size: 50px;
+}

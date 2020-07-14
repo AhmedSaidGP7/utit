@@ -1,0 +1,22 @@
+.w3-input2{
+           padding: 8px;
+    display: block;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #f47a29;
+    border-bottom: 1px solid #808080;}
+.contactmessage{
+    
+    margin-top: 40px;
+}
+
+.w3-input{
+    max-width: 85%;
+    min-height: 250px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #f47a29;
+    max-height: 250px;
+}
+

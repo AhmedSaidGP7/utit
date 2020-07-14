@@ -1,0 +1,131 @@
+/*  Start Infromation Hader */
+
+.hader-information{
+    height:1cm;
+    background: #e8e8e8;
+    width: 100%;
+
+}
+
+.contact-info{
+
+    float: left;
+
+    margin-left: 5cm;
+
+
+
+}
+
+.socila-info{
+    float: right;
+
+    margin-right: 5cm;
+
+    padding-top: 10.5px;
+
+    height: 1cm;
+
+    border-right: 1px solid #d2d2d2;
+
+    border-left: 1px solid #d2d2d2;
+
+    padding-left: 13px;
+}
+
+.contact-info p {
+
+display: inline-block;
+
+    padding-right:15px;
+
+    font-size:10pt;
+
+    color:#888888;
+
+    border-right: 1px solid #d2d2d2;
+
+    padding-top: 10.5px;
+
+    height: 1cm;
+}
+
+.email-info{
+
+     border-left: 1px solid #d2d2d2;
+     padding:12px;
+
+}
+
+.socila-info .fa{
+
+    color: #888888;
+    font-size: 18px;
+    padding-right: 15px;
+}
+
+/*  End Infromation Hader */
+
+
+
+
+/* Start Read More Bordaer */
+
+.readmoreborder{
+
+    font-weight: bold;
+    width: 109px;
+    height: 41px;
+    margin: auto;
+    padding-top: 11px;
+}
+
+
+/* Start Contact Style*/
+
+.contactsection{
+    min-height: 100%;
+    min-height: 643px;
+    height: auto;
+
+}
+
+.Contacth1{
+    font-weight:bold;
+    font-size: 45px;
+    position: relative;
+    left: 40px;
+    color:#f47a29;
+
+}
+
+
+.contactfrom{
+
+
+    top: 60px;
+
+}
+
+.centerclass {
+
+   margin-top: 55px;
+}
+
+.itservimg{
+    height: 332px;
+    display: table;
+    margin: auto;
+    position: relative;
+    top: 30px;
+}
+
+
+.spical{
+
+	  font-family: 'Didact Gothic', sans-serif;
+    color: black;
+	  font-weight: bold;
+    line-height: 25px;
+  /*  margin-left: 23px;*/
+}
